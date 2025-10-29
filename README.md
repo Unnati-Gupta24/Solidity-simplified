@@ -1,4 +1,4 @@
-# Solidity - Simplified 🔷
+# Solidity - Simplified ⟠
 
 This repository consolidates knowledge from various Solidity resources, documentation, and real-world development experience. The goal is simple: make Solidity easier to understand without losing any of its depth or accuracy.
 
